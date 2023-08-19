@@ -53,7 +53,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krishnadheerajkrovi&stroke=38DD69&background=165795&ring=37DD57&fire=1CD577&sideNums=120E5BF2&sideLabels=1ADD40&currStreakLabel=10EF24&dates=11E2E7FF&currStreakNum=639E29)
+<details>
+  <summary> :zap: Github Stats </summary>
+
+  <img align="left" alt="KrishnaDheeraj's Github Stats" src="https://github-readme-stats-krishnadheerajkrovi.vercel.app/api?username=Krishnadheerajkrovi&show_icons=true&hide_border=true" />
+  
+</details>
 
 
 ---
