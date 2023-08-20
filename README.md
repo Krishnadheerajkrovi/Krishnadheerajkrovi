@@ -1,6 +1,6 @@
-### 👨‍💻 Hi there, I'm Krishna Dheeraj 👋
+### Hi there, I'm Krishna Dheeraj 👋
 
-#### I'm a Software Developer at Artha Solutions
+#### I'm a Software Developer 👨‍💻 at Artha Solutions 
 - &#128214; I’m currently learning Machine Learning & Deep Learning.
 - &#11088; I work on Improving my skills in free time.
 - &#x1f697; I'm an Automobile enthusiast.
