@@ -28,12 +28,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 ##### Github Stats
   <img align="left" alt="KrishnaDheeraj's Github Stats" src="https://github-readme-stats-krishnadheerajkrovi.vercel.app/api?username=Krishnadheerajkrovi&show_icons=true&hide_border=true" />
 
 <br>
-
----
 
 #### Connect with me:
 [<img align="left" alt="krishnadheerajkrovi | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
