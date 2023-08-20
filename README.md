@@ -20,7 +20,7 @@
 
 - &#128214; I’m currently learning Machine Learning & Deep Learning.
 - &#11088; I work on ***Improving my skills*** in free time.
-- &#x1f697; I'm a ***Automobile enthusiast***.
+- &#x1f697; I'm an ***Automobile enthusiast***.
 - &#127992;&#x1F3A4;I love playing ***Badminton*** and singing.
 - &#128526; I am ***highly optimistic and super positive*** and I always look forward to have a hands on latest Technology.
 
