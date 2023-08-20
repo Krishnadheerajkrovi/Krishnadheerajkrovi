@@ -1,4 +1,4 @@
-### 👨‍💻 Hi there, I'm Dheeraj 👋
+### 👨‍💻 Hi there, I'm Krishna Dheeraj 👋
 
 #### I'm a Software Developer at Artha Solutions
 - &#128214; I’m currently learning Machine Learning & Deep Learning.
