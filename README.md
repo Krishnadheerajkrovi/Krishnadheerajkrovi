@@ -9,7 +9,7 @@
 
 <p align="center">
   <br>
-  I'm Krishna Dheeraj Krovi, am Electrical Engineering starting to deep dive into Programming.
+  I'm Krishna Dheeraj Krovi, am Electrical Engineering with a passion for Problem Solving and Math.
   I'm a self-learner who loves to learn from the Internet apart from classroom.
   <br> <br>
   <!-- <img src="https://komarev.com/ghpvc/?username=KrishnaDheerajKrovi&color=blue&style=flat" color=blue alt="https://krishnadheerajkrovi.github.io/" /> 
