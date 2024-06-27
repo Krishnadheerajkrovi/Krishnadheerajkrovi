@@ -7,11 +7,11 @@
 - &#127992;&#x1F3A4;I love playing Badminton and singing.
 - &#128526; I am highly optimistic and super positive and I always look forward to have a hands on latest Technology.
 
+<!-- 
 ---
-
 #### What I am currently juggling between
 <img src ="https://readme-typing-svg.herokuapp.com?font=TimesNewRoman&size=16&lines=Talend+Cloud+Administrator+Certification;Azure+Data+Engineer+Path;AWS+Machine+Learning+Practitioner" alt="Typing SVG" >
-
+-->
 ---
 
 #### Programming Languages
@@ -30,10 +30,10 @@
 
 ---
 
-##### Github Stats
+<!-- ##### Github Stats 
   
-  <img align="left" alt="KrishnaDheeraj's Github Stats" src="https://github-readme-stats-krishnadheerajkrovi.vercel.app/api?username=Krishnadheerajkrovi&show_icons=true&hide_border=true" />
-
+ <img align="left" alt="KrishnaDheeraj's Github Stats" src="https://github-readme-stats-krishnadheerajkrovi.vercel.app/api?username=Krishnadheerajkrovi&show_icons=true&hide_border=true" />
+-->
 <br>
 
 #### Connect with me:
